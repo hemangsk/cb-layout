@@ -27,7 +27,7 @@ header('Content-type: text/html; charset=UTF-8');
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta http-equiv="Content-Script-Type" content="text/javascript" />
     <meta http-equiv="Content-Style-Type" content="text/css" />
-
+    <meta name="google-site-verification" content="WiazsrwyvcJ-ZMWouNOFcAkopao7SXsmbWg826_LN_M" />
     <title><?php echo $PlanetConfig->getName(); ?></title>
     <?php include(__DIR__.'/head.tpl.php'); ?>
     <script>
