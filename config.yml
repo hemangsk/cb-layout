@@ -1,0 +1,8 @@
+url: http://blog.coala.io  
+name: coala Planet               
+locale: en                   
+items: 20                    
+refresh: 240                   
+cache: 10                       
+cachedir: ./cache              
+categories:  
